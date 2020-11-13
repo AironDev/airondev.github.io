@@ -24,34 +24,29 @@
 					</figure>
 					<h1 style="font-size: 2em">Aniebiet Aaron</h1>
 					<p> Software Developer</p>
-					<span class="tagline">Physics/Computer Science Undergraduate | Backend Developer [Laravel & NodeJs] | HNGi7 Finalist</span>
+					<span class="tagline">Physics/Computer Science Undergraduate | Backend Developer <span class="stati accent"> [ </span> Laravel, ExpressJS, AdonisJS, Golang <span class="stati accent"> ] </span> | HNG Internship Finalist</span>
 					<br>
 					<div class="social-buttons">
-				  <a href="#" class="social-buttons__button social-button social-button--facebook" aria-label="Facebook">
-				    <span class="social-button__inner">
-				     <i class="fab fa-facebook-f"></i>
-				    </span>
-				  </a>
-				  <a href="#" class="social-buttons__button social-button social-button--linkedin" aria-label="LinkedIn">
-				    <span class="social-button__inner">
-				     <i class="fab fa-linkedin-in"></i>
-				    </span>
-				  </a>
-				  <a href="#" class="social-buttons__button social-button social-button--snapchat" aria-label="SnapChat">
-				    <span class="social-button__inner">
-				     <i class="fab fa-snapchat-ghost"></i>
-				    </span>
-				  </a>
-				  <a href="#" class="social-buttons__button social-button social-button--github" aria-label="GitHub">
-				    <span class="social-button__inner">
-				     <i class="fab fa-github"></i>
-				    </span>
-				  </a>
-				  <a href="#" class="social-buttons__button social-button social-button--codepen" aria-label="CodePen">
-				    <span class="social-button__inner">
-				     <i class="fab fa-codepen"></i>
-				    </span>
-				  </a>
+						<a href="https://twitter.com/airon_dev" class="social-buttons__button social-button social-button--codepen" aria-label="CodePen">
+					    <span class="social-button__inner">
+					     <i class="fab fa-twitter"></i>
+					    </span>
+					  </a>
+					  <a href="https://facebook.com/aaron-aniebiet" class="social-buttons__button social-button social-button--facebook" aria-label="Facebook">
+					    <span class="social-button__inner">
+					     <i class="fab fa-facebook-f"></i>
+					    </span>
+					  </a>
+					  <a href="https://linkedin.com/in/aaron-aniebiet" class="social-buttons__button social-button social-button--linkedin" aria-label="LinkedIn">
+					    <span class="social-button__inner">
+					     <i class="fab fa-linkedin-in"></i>
+					    </span>
+					  </a>
+					  <a href="https://github.com/airondev" class="social-buttons__button social-button social-button--github" aria-label="GitHub">
+					    <span class="social-button__inner">
+					     <i class="fab fa-github"></i>
+					    </span>
+					  </a>
 				</div>
 				</header>
 
@@ -73,7 +68,7 @@
 						<header class="major">
 							<h2 class=" stati accent">Who I am</h2>
 						</header>
-						<p>I'm a software developer, I particularly love the #Backend side of things, but that doesnt stop me from getting my hands with frontend, with PHP as my first language, am very comfortable with Laravel and Wordpress. I love  Javascript - MEVN Stack and Adonis JS but not enough to pride myself as Fullstack Developer. I'm currently learning Golang for enterprise solutions. My long term goal lies somewhere between Devops and Cloud Engineering </p>
+						<p class="align-center">I'm a software developer, I particularly love the #Backend side of things, but that doesnt stop me from getting my hands dirty with Frontend, Am very comfortable with Laravel and Wordpress. I love Javascript with MEVN Stack & Adonis JS but sincerely not enough to pride myself as Fullstack Developer. I'm currently learning GoLang for enterprise solutions. My long term goal (retirement plan actually) lies somewhere between Devops, Cloud Engineering & IOT </p>
 
 						<section>	
 							<h5>Favorite Quote</h5>
@@ -132,13 +127,10 @@
 							<h2 class="stati accent">Skills Set</h2>
 						</header>
 
-
 						<!--Skill Pill Style 3-->
-						<div class="row">
-						  <p>Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate.</p>
-						</div>
-
-
+						
+						  <p class="align-center">“The only person who is educated is the one who has learned how to learn and change.” <br><span class="stati accent">Benjamin Franklin</span></p>
+						
 						<div class="row">
 							<div class="skill">
 								<span class="tooltip">CSS</span>
@@ -318,7 +310,7 @@
 						</div>
 
 					</div>
-					<a href="#footer" class="goto-next scrolly">Next</a>
+					<a href="#four" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
 
@@ -335,14 +327,14 @@
 								<div class="row gtr-uniform gtr-50">
 									<div class="col-12"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic05.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-									<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic08.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic12.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic09.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic13.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic10.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic11.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic07.png" alt="" /></span></div>
+									<div class="col-4"><span class="image fit"><img src="images/pic06.png" alt="" /></span></div>
 								</div>
 							</div>
 						</section>
@@ -374,14 +366,12 @@
 				</div>
 				<footer>
 					<ul class="icons">
-						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="#" class="icon brands alt fa-dribbble"><span class="label">Dribbble</span></a></li>
-						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="https://twitter.com/airon_dev" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="http://facebook.com/aaron-aniebiet" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="mailto:airondev@gmail.com" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Demo Images: <a href="http://unsplash.com">Unsplash</a></li>
+						<li>&copy; Aaron A</li><li>Design: <a href="http://">Airdge NG</a></li>
 					</ul>
 				</footer>
 			</section>
