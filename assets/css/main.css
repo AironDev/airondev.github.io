@@ -1977,9 +1977,22 @@ input, select, textarea {
 		header.major span.tagline {
 		    font-size: 16px;
 		    display: block;
-		    width: 400px;
+		    /*width: 400px;*/
 		    text-align: center;
 		    margin: auto;
+		    padding: 0 28%;
+		}
+
+		@media screen and (max-width: 736px) {
+
+			header.major span.tagline {
+			    font-size: 16px;
+			    display: block;
+			    /*width: 400px;*/
+			    text-align: center;
+			    margin: auto;
+			    padding: 0 1%;
+			}
 		}
 
 /* Form */
