@@ -89,7 +89,7 @@
 						<header class="major">
 							<h2 class="stati accent">Stuff I do</h2>
 						</header>
-						<p>Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate.</p>
+						<p class="align-center">“Doing what needs to be done may not make you happy, but it will make you great.”<br><span class="stati accent">George Bernard Shaw</span></p>
 						<ul class="icons-grid">
 							<li>
 								<span class="icon solid major fa-camera-retro"></span>
@@ -131,7 +131,7 @@
 						
 						  <p class="align-center">“The only person who is educated is the one who has learned how to learn and change.” <br><span class="stati accent">Benjamin Franklin</span></p>
 						
-						<div class="row">
+						<div class="row" style="margin: auto">
 							<div class="skill">
 								<span class="tooltip">CSS</span>
 							       <div class="skill-face">

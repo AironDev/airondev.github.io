@@ -50,7 +50,7 @@
   -ms-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   transform: rotate(0deg);
-  margin: 5px auto 2px auto;
+  margin: 5px 3px 2px 1px;
   cursor: pointer;
   /*padding: 0em;*/
 }
